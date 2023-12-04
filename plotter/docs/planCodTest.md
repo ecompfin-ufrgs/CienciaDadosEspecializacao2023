@@ -1,6 +1,6 @@
 # Plano de Codificação e Testes
 
-Tendo em vista o emprego de modelagem funcional no projeto do software, a codificação será feita utilizando o paradigma de programação funcional.
+Tendo em vista o emprego de modelagem funcional no projeto do software, a codificação será feita utilizando o paradigma de programação funcional e orientada a objetos.
 
 Utilizaremos a linguagem Python para codificação, uma vez que a mesma mostra-se a mais adequada ao desenvolvimento ágil de aplicações de pequena escala com interface de linha de comando.
 
